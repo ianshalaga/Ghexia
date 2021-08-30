@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F2767C8F-480C-867C-65D3-33B6C128EC4A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE_Juego1Cpp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
